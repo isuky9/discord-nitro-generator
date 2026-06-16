@@ -51,7 +51,7 @@ See `Software License Agreement.txt` for more information.
 
 ## Contact
 If you have any issues or questions please contact me 
-Discord: tear#1011
+
 
 
 

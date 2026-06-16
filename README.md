@@ -42,9 +42,7 @@ Step 5) Copy and paste your HTTP proxy list into proxies.txt. If you do not have
 Step 6) Follow the prompts in your terminal and start the generator!
 
 
-## Issues
 
-See the [open issues](https://github.com/therealtear/discord-nitro-generator/issues) for a list of proposed features (and known issues).
 
 
 ## License
@@ -52,11 +50,8 @@ See the [open issues](https://github.com/therealtear/discord-nitro-generator/iss
 See `Software License Agreement.txt` for more information.
 
 ## Contact
-If you have any issues or questions please contact me at tear@crime.su or on Discord at tear#1011
-
-Email: tear@crime.su
-
+If you have any issues or questions please contact me 
 Discord: tear#1011
 
-Project Link: [https://github.com/therealtear/discord-nitro-generator/](https://github.com/therealtear/discord-nitro-generator/)
+
 

@@ -160,5 +160,4 @@ function question() {
 
 question();
 
-// made by tear
-// https://github.com/therealtear
+

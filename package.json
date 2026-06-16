@@ -1,7 +1,7 @@
 {
-    "name": "tears-nitro-genrator",
+    "name": "-nitro-genrator",
     "version": "4.2.0",
-    "description": "Tear's nitro generator for inquieries please message me on discord: Tear#1261 or join the support server discord.gg/ma9szz9",
+    "description": "Tear's nitro generator ",
     "main": "app.js",
     "scripts": {
         "start": "node app.js"
@@ -18,10 +18,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/therealtear/discord-nitro-generator.git"
+        "url": "git+https://github.com/isuky9/discord-nitro-generator.git"
     },
     "bugs": {
-        "url": "https://github.com/therealtear/discord-nitro-generator/issues"
+        "url": "https://github.com/isuky9/discord-nitro-generator/issues"
     },
-    "homepage": "https://github.com/therealtear/discord-nitro-generator#readme"
+    "homepage": "https://github.com/isuky9/discord-nitro-generator#readme"
 }
